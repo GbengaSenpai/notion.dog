@@ -1,0 +1,12 @@
+{  
+    "SLUG_TO_PAGE": {
+        "":"3a2dce445a3a4190953427e64e89292a"
+        "about me":"07902208eeac4d288bcfa78c549bc223"
+    },
+  
+    "PAGE_TITLE" : "Gbenga Sorinola", 
+    "PAGE_DESCRIPTION" : "Content Creator and Data Journalism Enthusiast",
+    
+    "GOOGLE_FONT" : "Helvetica",
+    "CUSTOM_SCRIPT" : "<script></script>"
+}
